@@ -33,5 +33,10 @@ namespace PI_Zadatak_Ispis_iz_datoteke
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
